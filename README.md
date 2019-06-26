@@ -1,2 +1,3 @@
-# Timesheet
-wk4 group class project
+## Employee Timesheet ##
+
+In-class group project. Partial front end and some logic. Not yet functional.
